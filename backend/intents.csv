@@ -1,0 +1,22 @@
+utterance,intent
+Hello,greet
+Hi there,greet
+Good morning,greet
+kaise ho?,greet
+What is the fee deadline?,ask_fee_deadline
+fee submission ki last date?,ask_fee_deadline
+fees kab tak bharni hai,ask_fee_deadline
+deadline for fees,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+scholarship form kidhar milega?,find_scholarship_form
+I need the scholarship application,find_scholarship_form
+Thank you,thank_you
+Thanks a lot,thank_you
+shukriya,thank_you
+Bye,goodbye
+See you later,goodbye
+bye bye,goodbye
+How are you?,greet
+Thanks for helping,thank_you
+Can I get the scholarship form,find_scholarship_form
+Need help with fees,ask_fee_deadline

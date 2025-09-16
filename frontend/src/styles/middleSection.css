@@ -1,0 +1,26 @@
+.middle-section{
+    height: 80%;
+    width: 95%;
+    max-width: 800px;
+    background: rgba(100,100,100,0.1);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 45%;
+    border-radius: 1rem;
+    bottom: 0;
+    border: 1px solid #232323;
+    box-shadow: 0 0 5px #121212;
+}
+
+.middle-section-inner{
+    width: calc(100% - 1rem);
+    height: calc(100% - 1rem);
+    border-radius: 1rem;
+    margin: 0.5rem;
+    background: rgba(100,100,100,0.1);
+    padding-top: 5rem;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column-reverse;
+}

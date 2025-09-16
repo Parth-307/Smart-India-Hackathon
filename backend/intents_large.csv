@@ -1,0 +1,2001 @@
+utterance,intent
+What is the schedule for IT practical exams?,ask_exam_schedule
+Thanks,thank_you
+Fee payment ki last date kya hai?,ask_fee_deadline
+Tell me the final date for paying my B.Tech fees.,ask_fee_deadline
+Timings for the main library?,inquire_library_hours
+See you later,goodbye
+Library kab tak khuli rehti hai?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+I need the class schedule for the 4th semester.,ask_timetable
+When is the annual fest?,ask_about_events
+Where can I find the scholarship form?,find_scholarship_form
+Tata,goodbye
+What is the fee deadline?,ask_fee_deadline
+Any workshops happening this month?,ask_about_events
+Is there any upcoming event?,ask_about_events
+Hi there,greet
+Bye,goodbye
+"That was helpful, thanks",thank_you
+When are the 6th semester fees due?,ask_fee_deadline
+Is there any upcoming event?,ask_about_events
+Timings for the main library?,inquire_library_hours
+Tata,goodbye
+When does the library open?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+When does the library open?,inquire_library_hours
+Tata,goodbye
+Scholarship form kidhar milega?,find_scholarship_form
+Library kab tak khuli rehti hai?,inquire_library_hours
+My classroom's projector is broken.,report_issue
+Good morning,greet
+Hey,greet
+annual fest kab hai?,ask_about_events
+What is the schedule for IT practical exams?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+See you later,goodbye
+When is the annual fest?,ask_about_events
+second year ka time table hai?,ask_timetable
+When are the 6th semester fees due?,ask_fee_deadline
+Thank you so much,thank_you
+I need the exam timetable for the 2nd semester.,ask_exam_schedule
+See you later,goodbye
+Is there any upcoming event?,ask_about_events
+Fee payment ki last date kya hai?,ask_fee_deadline
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+My classroom's projector is broken.,report_issue
+My classroom's projector is broken.,report_issue
+See you later,goodbye
+Timetable for MCA please.,ask_timetable
+When are the 4th semester fees due?,ask_fee_deadline
+Hi there,greet
+When does the library open?,inquire_library_hours
+There is a problem with the library computer in the hostel.,report_issue
+Timetable for M.Tech please.,ask_timetable
+See you later,goodbye
+Shukriya,thank_you
+See you later,goodbye
+Library kab tak khuli rehti hai?,inquire_library_hours
+Fee payment ki last date kya hai?,ask_fee_deadline
+"That was helpful, thanks",thank_you
+When does the library open?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+"That was helpful, thanks",thank_you
+There is a problem with the Wi-Fi in the hostel.,report_issue
+I need the exam timetable for the 7th semester.,ask_exam_schedule
+Where can I find the scholarship form?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+When is the last date for fee submission?,ask_fee_deadline
+Scholarship form kidhar milega?,find_scholarship_form
+I want to report an issue.,report_issue
+sports meet kab hai?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+The canteen food is not working.,report_issue
+There is a problem with the library computer in the hostel.,report_issue
+I need the application for the government scholarship.,find_scholarship_form
+Is the library open on Saturday?,inquire_library_hours
+Goodbye,goodbye
+Is the library open on Saturday?,inquire_library_hours
+I need the application for the government scholarship.,find_scholarship_form
+I have to go,goodbye
+Hey,greet
+Bye,goodbye
+Good morning,greet
+Shukriya,thank_you
+Goodbye,goodbye
+Tata,goodbye
+See you later,goodbye
+Timings for the main library?,inquire_library_hours
+Show me the dates for the final exams.,ask_exam_schedule
+I need the class schedule for the 5th semester.,ask_timetable
+Thank you so much,thank_you
+Thanks,thank_you
+Thank you so much,thank_you
+Is the library open on Saturday?,inquire_library_hours
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+Tata,goodbye
+Hello,greet
+Thank you so much,thank_you
+When are the exams starting?,ask_exam_schedule
+Show me the Civil department timetable.,ask_timetable
+What is the fee deadline?,ask_fee_deadline
+Thank you so much,thank_you
+When does the library open?,inquire_library_hours
+Shukriya,thank_you
+My classroom's projector is broken.,report_issue
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+What are the library hours?,inquire_library_hours
+See you later,goodbye
+I have to go,goodbye
+When are the 7th semester fees due?,ask_fee_deadline
+Where can I find the timetable?,ask_timetable
+I want to report an issue.,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+I need the application for the government scholarship.,find_scholarship_form
+Is there any upcoming event?,ask_about_events
+Where can I find the timetable?,ask_timetable
+The library computer is not working.,report_issue
+Hey,greet
+Is the library open on Saturday?,inquire_library_hours
+When is the hackathon?,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+Show me the scholarship forms for MCA students.,find_scholarship_form
+Is there any upcoming event?,ask_about_events
+When does the library open?,inquire_library_hours
+Whom to contact for a library computer issue?,report_issue
+Tell me more about the college fest.,ask_about_events
+See you later,goodbye
+See you later,goodbye
+I need the class schedule for the 8th semester.,ask_timetable
+Tata,goodbye
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+The canteen food is not working.,report_issue
+Exam schedule kab aayega?,ask_exam_schedule
+Where can I find the timetable?,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+"That was helpful, thanks",thank_you
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+Is the library open on Saturday?,inquire_library_hours
+Wassup,greet
+See you later,goodbye
+Goodbye,goodbye
+I need the class schedule for the 2nd semester.,ask_timetable
+Goodbye,goodbye
+Shukriya,thank_you
+Goodbye,goodbye
+Tell me more about the college fest.,ask_about_events
+My classroom's projector is broken.,report_issue
+Thanks,thank_you
+Timetable for MBA please.,ask_timetable
+Scholarship form kidhar milega?,find_scholarship_form
+Exam schedule kab aayega?,ask_exam_schedule
+Tata,goodbye
+Thank you so much,thank_you
+When are the exams starting?,ask_exam_schedule
+I want to report an issue.,report_issue
+There is a problem with the canteen food in the hostel.,report_issue
+When is the annual fest?,ask_about_events
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Show me the IT department timetable.,ask_timetable
+When is the last date for fee submission?,ask_fee_deadline
+Library kab tak khuli rehti hai?,inquire_library_hours
+When is the last date for fee submission?,ask_fee_deadline
+I want to report an issue.,report_issue
+Any workshops happening this month?,ask_about_events
+Timetable for B.Tech please.,ask_timetable
+Goodbye,goodbye
+Where can I find the scholarship form?,find_scholarship_form
+Tell me the final date for paying my MBA fees.,ask_fee_deadline
+Fee payment ki last date kya hai?,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+Tell me more about the college fest.,ask_about_events
+Library kab tak khuli rehti hai?,inquire_library_hours
+Hey,greet
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+Library kab tak khuli rehti hai?,inquire_library_hours
+I want to report an issue.,report_issue
+See you later,goodbye
+Bye,goodbye
+Thanks,thank_you
+Is there any upcoming event?,ask_about_events
+Is there any upcoming event?,ask_about_events
+I want to report an issue.,report_issue
+When is the annual fest?,ask_about_events
+sports meet kab hai?,ask_about_events
+The hostel water is not working.,report_issue
+Where can I find the timetable?,ask_timetable
+What is the fee deadline?,ask_fee_deadline
+Thank you so much,thank_you
+Fee payment ki last date kya hai?,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+I need the class schedule for the 2nd semester.,ask_timetable
+Scholarship form kidhar milega?,find_scholarship_form
+Show me the Electronics department timetable.,ask_timetable
+I need the application for the government scholarship.,find_scholarship_form
+Thank you so much,thank_you
+My classroom's projector is broken.,report_issue
+The canteen food is not working.,report_issue
+I want to report an issue.,report_issue
+Show me the dates for the final exams.,ask_exam_schedule
+Show me the Computer Science department timetable.,ask_timetable
+Bye,goodbye
+Tell me the final date for paying my MBA fees.,ask_fee_deadline
+Library kab tak khuli rehti hai?,inquire_library_hours
+Bye,goodbye
+Tell me more about the college fest.,ask_about_events
+When are the 4th semester fees due?,ask_fee_deadline
+Hi there,greet
+Hey,greet
+Where can I find the timetable?,ask_timetable
+I need the application for the government scholarship.,find_scholarship_form
+When are the exams starting?,ask_exam_schedule
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Is there any upcoming event?,ask_about_events
+What is the schedule for IT practical exams?,ask_exam_schedule
+Tell me more about the college fest.,ask_about_events
+Library kab tak khuli rehti hai?,inquire_library_hours
+See you later,goodbye
+Show me the scholarship forms for MCA students.,find_scholarship_form
+Tell me more about the college fest.,ask_about_events
+Good morning,greet
+The hostel water is not working.,report_issue
+There is a problem with the Wi-Fi in the hostel.,report_issue
+third year ka time table hai?,ask_timetable
+Show me the Computer Science department timetable.,ask_timetable
+Where can I find the timetable?,ask_timetable
+I have to go,goodbye
+When does the library open?,inquire_library_hours
+third year ka time table hai?,ask_timetable
+Scholarship form kidhar milega?,find_scholarship_form
+There is a problem with the Wi-Fi in the hostel.,report_issue
+Hi there,greet
+See you later,goodbye
+I have to go,goodbye
+Good morning,greet
+Any workshops happening this month?,ask_about_events
+Scholarship form kidhar milega?,find_scholarship_form
+Whom to contact for a library computer issue?,report_issue
+Wassup,greet
+When are the exams starting?,ask_exam_schedule
+When is the last date for fee submission?,ask_fee_deadline
+I need the application for the government scholarship.,find_scholarship_form
+Thanks,thank_you
+When is the annual fest?,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+The hostel water is not working.,report_issue
+Hi there,greet
+Timetable for MBA please.,ask_timetable
+Exam schedule kab aayega?,ask_exam_schedule
+Tata,goodbye
+See you later,goodbye
+I want to report an issue.,report_issue
+Tata,goodbye
+I need the class schedule for the 5th semester.,ask_timetable
+Scholarship form kidhar milega?,find_scholarship_form
+When are the exams starting?,ask_exam_schedule
+Hello,greet
+I need the exam timetable for the 4th semester.,ask_exam_schedule
+Wassup,greet
+Hi there,greet
+When are the exams starting?,ask_exam_schedule
+Thank you so much,thank_you
+Bye,goodbye
+Bye,goodbye
+What are the library hours?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+Tata,goodbye
+When are the 4th semester fees due?,ask_fee_deadline
+Good morning,greet
+Any workshops happening this month?,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+Timetable for MCA please.,ask_timetable
+Show me the dates for the final exams.,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+What is the fee deadline?,ask_fee_deadline
+Show me the dates for the final exams.,ask_exam_schedule
+What is the fee deadline?,ask_fee_deadline
+I need the exam timetable for the 6th semester.,ask_exam_schedule
+I have to go,goodbye
+Is the library open on Saturday?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+Exam schedule kab aayega?,ask_exam_schedule
+When are the 1st semester fees due?,ask_fee_deadline
+Exam schedule kab aayega?,ask_exam_schedule
+Wassup,greet
+When is the hackathon?,ask_about_events
+Timings for the main library?,inquire_library_hours
+Scholarship form kidhar milega?,find_scholarship_form
+Is there any upcoming event?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+Fee payment ki last date kya hai?,ask_fee_deadline
+See you later,goodbye
+There is a problem with the hostel water in the hostel.,report_issue
+Timings for the main library?,inquire_library_hours
+I have to go,goodbye
+Thanks,thank_you
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+There is a problem with the canteen food in the hostel.,report_issue
+"That was helpful, thanks",thank_you
+Where can I find the timetable?,ask_timetable
+See you later,goodbye
+Is the library open on Saturday?,inquire_library_hours
+When are the 3rd semester fees due?,ask_fee_deadline
+Good morning,greet
+Show me the scholarship forms for MCA students.,find_scholarship_form
+My classroom's projector is broken.,report_issue
+Shukriya,thank_you
+"That was helpful, thanks",thank_you
+Show me the scholarship forms for MCA students.,find_scholarship_form
+What is the schedule for Mechanical practical exams?,ask_exam_schedule
+Shukriya,thank_you
+Exam schedule kab aayega?,ask_exam_schedule
+I need the class schedule for the 4th semester.,ask_timetable
+Thanks,thank_you
+Tell me the final date for paying my MBA fees.,ask_fee_deadline
+Thank you so much,thank_you
+Where can I find the scholarship form?,find_scholarship_form
+"That was helpful, thanks",thank_you
+There is a problem with the canteen food in the hostel.,report_issue
+Timings for the main library?,inquire_library_hours
+Show me the scholarship forms for MBA students.,find_scholarship_form
+Exam schedule kab aayega?,ask_exam_schedule
+Scholarship form kidhar milega?,find_scholarship_form
+Good morning,greet
+I need the application for the government scholarship.,find_scholarship_form
+Tell me more about the college fest.,ask_about_events
+When is the annual fest?,ask_about_events
+What are the library hours?,inquire_library_hours
+Whom to contact for a Wi-Fi issue?,report_issue
+I need the class schedule for the 5th semester.,ask_timetable
+There is a problem with the library computer in the hostel.,report_issue
+Show me the Electronics department timetable.,ask_timetable
+What are the library hours?,inquire_library_hours
+Thank you so much,thank_you
+See you later,goodbye
+Good morning,greet
+Thank you so much,thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+Tell me more about the college fest.,ask_about_events
+Shukriya,thank_you
+When are the 4th semester fees due?,ask_fee_deadline
+third year ka time table hai?,ask_timetable
+Is the library open on Saturday?,inquire_library_hours
+Shukriya,thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+Library kab tak khuli rehti hai?,inquire_library_hours
+Timings for the main library?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+There is a problem with the hostel water in the hostel.,report_issue
+tech symposium kab hai?,ask_about_events
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Tata,goodbye
+I need the application for the government scholarship.,find_scholarship_form
+I have to go,goodbye
+Shukriya,thank_you
+Shukriya,thank_you
+Show me the Computer Science department timetable.,ask_timetable
+Show me the dates for the final exams.,ask_exam_schedule
+Exam schedule kab aayega?,ask_exam_schedule
+Shukriya,thank_you
+I need the class schedule for the 4th semester.,ask_timetable
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+Fee payment ki last date kya hai?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+Any workshops happening this month?,ask_about_events
+"That was helpful, thanks",thank_you
+Hello,greet
+Timetable for MCA please.,ask_timetable
+Thanks,thank_you
+Whom to contact for a Wi-Fi issue?,report_issue
+I need the application for the government scholarship.,find_scholarship_form
+Bye,goodbye
+Hey,greet
+sports meet kab hai?,ask_about_events
+Hey,greet
+When does the library open?,inquire_library_hours
+Where can I find the timetable?,ask_timetable
+When are the exams starting?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+Library kab tak khuli rehti hai?,inquire_library_hours
+Hey,greet
+Hello,greet
+Tata,goodbye
+What is the fee deadline?,ask_fee_deadline
+Bye,goodbye
+What are the library hours?,inquire_library_hours
+Goodbye,goodbye
+Timings for the main library?,inquire_library_hours
+Where can I find the timetable?,ask_timetable
+The canteen food is not working.,report_issue
+When are the 1st semester fees due?,ask_fee_deadline
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+When is the sports meet?,ask_about_events
+Shukriya,thank_you
+Wassup,greet
+Show me the Mechanical department timetable.,ask_timetable
+Exam schedule kab aayega?,ask_exam_schedule
+Where can I find the scholarship form?,find_scholarship_form
+I need the application for the government scholarship.,find_scholarship_form
+Tell me more about the college fest.,ask_about_events
+I have to go,goodbye
+Scholarship form kidhar milega?,find_scholarship_form
+When is the sports meet?,ask_about_events
+There is a problem with the library computer in the hostel.,report_issue
+I need the class schedule for the 8th semester.,ask_timetable
+Thank you so much,thank_you
+I need the application for the government scholarship.,find_scholarship_form
+When are the exams starting?,ask_exam_schedule
+Tell me more about the college fest.,ask_about_events
+My classroom's projector is broken.,report_issue
+There is a problem with the hostel water in the hostel.,report_issue
+Library kab tak khuli rehti hai?,inquire_library_hours
+Good morning,greet
+Good morning,greet
+My classroom's projector is broken.,report_issue
+Timetable for MBA please.,ask_timetable
+When is the hackathon?,ask_about_events
+What are the library hours?,inquire_library_hours
+When is the hackathon?,ask_about_events
+What are the library hours?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+Hi there,greet
+Exam schedule kab aayega?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+See you later,goodbye
+Library kab tak khuli rehti hai?,inquire_library_hours
+Good morning,greet
+The canteen food is not working.,report_issue
+Thank you so much,thank_you
+Show me the dates for the final exams.,ask_exam_schedule
+Show me the dates for the final exams.,ask_exam_schedule
+Show me the scholarship forms for MBA students.,find_scholarship_form
+Whom to contact for a canteen food issue?,report_issue
+There is a problem with the canteen food in the hostel.,report_issue
+first year ka time table hai?,ask_timetable
+Goodbye,goodbye
+I need the class schedule for the 2nd semester.,ask_timetable
+third year ka time table hai?,ask_timetable
+When does the library open?,inquire_library_hours
+Thank you so much,thank_you
+Good evening,greet
+Any workshops happening this month?,ask_about_events
+I have to go,goodbye
+Where can I find the scholarship form?,find_scholarship_form
+My classroom's projector is broken.,report_issue
+Hey,greet
+Hi there,greet
+What is the fee deadline?,ask_fee_deadline
+Hello,greet
+Hey,greet
+Goodbye,goodbye
+Tell me the final date for paying my MBA fees.,ask_fee_deadline
+Scholarship form kidhar milega?,find_scholarship_form
+I want to report an issue.,report_issue
+My classroom's projector is broken.,report_issue
+What is the schedule for Mechanical practical exams?,ask_exam_schedule
+Where can I find the timetable?,ask_timetable
+I need the exam timetable for the 1st semester.,ask_exam_schedule
+Library kab tak khuli rehti hai?,inquire_library_hours
+Show me the dates for the final exams.,ask_exam_schedule
+See you later,goodbye
+Whom to contact for a Wi-Fi issue?,report_issue
+What are the library hours?,inquire_library_hours
+The Wi-Fi is not working.,report_issue
+What is the fee deadline?,ask_fee_deadline
+When are the exams starting?,ask_exam_schedule
+When is the last date for fee submission?,ask_fee_deadline
+Wassup,greet
+The hostel water is not working.,report_issue
+final year ka time table hai?,ask_timetable
+"That was helpful, thanks",thank_you
+Whom to contact for a library computer issue?,report_issue
+Tata,goodbye
+Show me the dates for the final exams.,ask_exam_schedule
+Is the library open on Saturday?,inquire_library_hours
+Show me the dates for the final exams.,ask_exam_schedule
+Where can I find the scholarship form?,find_scholarship_form
+Show me the Mechanical department timetable.,ask_timetable
+Scholarship form kidhar milega?,find_scholarship_form
+Good morning,greet
+Timings for the main library?,inquire_library_hours
+The hostel water is not working.,report_issue
+I have to go,goodbye
+Shukriya,thank_you
+Where can I find the scholarship form?,find_scholarship_form
+first year ka time table hai?,ask_timetable
+When does the library open?,inquire_library_hours
+Show me the scholarship forms for MCA students.,find_scholarship_form
+Good evening,greet
+Good evening,greet
+tech symposium kab hai?,ask_about_events
+hackathon kab hai?,ask_about_events
+Whom to contact for a Wi-Fi issue?,report_issue
+Fee payment ki last date kya hai?,ask_fee_deadline
+What is the schedule for IT practical exams?,ask_exam_schedule
+Hi there,greet
+Thank you so much,thank_you
+Tata,goodbye
+I want to report an issue.,report_issue
+Tata,goodbye
+Hey,greet
+Show me the dates for the final exams.,ask_exam_schedule
+Show me the dates for the final exams.,ask_exam_schedule
+Scholarship form kidhar milega?,find_scholarship_form
+Goodbye,goodbye
+Whom to contact for a library computer issue?,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+Thank you so much,thank_you
+Tell me more about the college fest.,ask_about_events
+I need the exam timetable for the 4th semester.,ask_exam_schedule
+What is the schedule for IT practical exams?,ask_exam_schedule
+Thanks,thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+Thanks,thank_you
+Where can I find the scholarship form?,find_scholarship_form
+There is a problem with the hostel water in the hostel.,report_issue
+Show me the dates for the final exams.,ask_exam_schedule
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Show me the Computer Science department timetable.,ask_timetable
+I need the application for the government scholarship.,find_scholarship_form
+The canteen food is not working.,report_issue
+See you later,goodbye
+When is the last date for fee submission?,ask_fee_deadline
+Timings for the main library?,inquire_library_hours
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+Show me the Mechanical department timetable.,ask_timetable
+Tell me the final date for paying my B.Tech fees.,ask_fee_deadline
+I need the exam timetable for the 5th semester.,ask_exam_schedule
+Fee payment ki last date kya hai?,ask_fee_deadline
+Is the library open on Saturday?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+Timetable for MCA please.,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+Where can I find the scholarship form?,find_scholarship_form
+What is the fee deadline?,ask_fee_deadline
+Show me the scholarship forms for MCA students.,find_scholarship_form
+Any workshops happening this month?,ask_about_events
+When is the annual fest?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+I want to report an issue.,report_issue
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+first year ka time table hai?,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+My classroom's projector is broken.,report_issue
+Thanks,thank_you
+What is the fee deadline?,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+Where can I find the scholarship form?,find_scholarship_form
+Bye,goodbye
+I need the class schedule for the 5th semester.,ask_timetable
+See you later,goodbye
+Scholarship form kidhar milega?,find_scholarship_form
+When is the last date for fee submission?,ask_fee_deadline
+Hello,greet
+Library kab tak khuli rehti hai?,inquire_library_hours
+Is the library open on Saturday?,inquire_library_hours
+Fee payment ki last date kya hai?,ask_fee_deadline
+Tell me more about the college fest.,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+There is a problem with the Wi-Fi in the hostel.,report_issue
+sports meet kab hai?,ask_about_events
+Show me the dates for the final exams.,ask_exam_schedule
+Goodbye,goodbye
+Hey,greet
+Thank you so much,thank_you
+What are the library hours?,inquire_library_hours
+Bye,goodbye
+There is a problem with the canteen food in the hostel.,report_issue
+When is the sports meet?,ask_about_events
+Show me the scholarship forms for MBA students.,find_scholarship_form
+My classroom's projector is broken.,report_issue
+Good morning,greet
+What are the library hours?,inquire_library_hours
+I have to go,goodbye
+Show me the dates for the final exams.,ask_exam_schedule
+Hey,greet
+Thank you so much,thank_you
+Thanks,thank_you
+hackathon kab hai?,ask_about_events
+Shukriya,thank_you
+Timings for the main library?,inquire_library_hours
+When is the sports meet?,ask_about_events
+Tata,goodbye
+Whom to contact for a Wi-Fi issue?,report_issue
+"That was helpful, thanks",thank_you
+Exam schedule kab aayega?,ask_exam_schedule
+Good morning,greet
+hackathon kab hai?,ask_about_events
+Timings for the main library?,inquire_library_hours
+When does the library open?,inquire_library_hours
+"That was helpful, thanks",thank_you
+Thanks,thank_you
+Timetable for MCA please.,ask_timetable
+I want to report an issue.,report_issue
+Any workshops happening this month?,ask_about_events
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+When is the hackathon?,ask_about_events
+Whom to contact for a hostel water issue?,report_issue
+Is there any upcoming event?,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+Hello,greet
+Goodbye,goodbye
+Library kab tak khuli rehti hai?,inquire_library_hours
+See you later,goodbye
+Tell me more about the college fest.,ask_about_events
+Any workshops happening this month?,ask_about_events
+Where can I find the timetable?,ask_timetable
+Any workshops happening this month?,ask_about_events
+Thanks,thank_you
+Show me the dates for the final exams.,ask_exam_schedule
+Bye,goodbye
+Exam schedule kab aayega?,ask_exam_schedule
+Is there any upcoming event?,ask_about_events
+Hi there,greet
+Whom to contact for a canteen food issue?,report_issue
+When does the library open?,inquire_library_hours
+Show me the scholarship forms for MBA students.,find_scholarship_form
+Whom to contact for a Wi-Fi issue?,report_issue
+Timetable for B.Tech please.,ask_timetable
+When are the 3rd semester fees due?,ask_fee_deadline
+When are the exams starting?,ask_exam_schedule
+Thanks,thank_you
+Any workshops happening this month?,ask_about_events
+"That was helpful, thanks",thank_you
+Tata,goodbye
+Timings for the main library?,inquire_library_hours
+When is the last date for fee submission?,ask_fee_deadline
+See you later,goodbye
+Whom to contact for a hostel water issue?,report_issue
+Tata,goodbye
+When are the exams starting?,ask_exam_schedule
+Where can I find the scholarship form?,find_scholarship_form
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+I have to go,goodbye
+I have to go,goodbye
+Hi there,greet
+Bye,goodbye
+Thanks,thank_you
+Where can I find the scholarship form?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+I need the application for the government scholarship.,find_scholarship_form
+Whom to contact for a hostel water issue?,report_issue
+Tell me more about the college fest.,ask_about_events
+When are the 3rd semester fees due?,ask_fee_deadline
+Wassup,greet
+Whom to contact for a hostel water issue?,report_issue
+Show me the Electronics department timetable.,ask_timetable
+annual fest kab hai?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+See you later,goodbye
+Tell me more about the college fest.,ask_about_events
+Where can I find the scholarship form?,find_scholarship_form
+When is the last date for fee submission?,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+hackathon kab hai?,ask_about_events
+I need the class schedule for the 4th semester.,ask_timetable
+Goodbye,goodbye
+Good evening,greet
+Wassup,greet
+Hi there,greet
+Wassup,greet
+Tell me more about the college fest.,ask_about_events
+What are the library hours?,inquire_library_hours
+When is the hackathon?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+Show me the IT department timetable.,ask_timetable
+Shukriya,thank_you
+Whom to contact for a hostel water issue?,report_issue
+Show me the Computer Science department timetable.,ask_timetable
+I need the class schedule for the 7th semester.,ask_timetable
+Hi there,greet
+first year ka time table hai?,ask_timetable
+Fee payment ki last date kya hai?,ask_fee_deadline
+Shukriya,thank_you
+Wassup,greet
+third year ka time table hai?,ask_timetable
+Is there any upcoming event?,ask_about_events
+Show me the Computer Science department timetable.,ask_timetable
+Is the library open on Saturday?,inquire_library_hours
+Good evening,greet
+There is a problem with the canteen food in the hostel.,report_issue
+Thanks,thank_you
+When are the 8th semester fees due?,ask_fee_deadline
+Goodbye,goodbye
+Exam schedule kab aayega?,ask_exam_schedule
+Show me the dates for the final exams.,ask_exam_schedule
+Tata,goodbye
+Where can I find the scholarship form?,find_scholarship_form
+Good evening,greet
+Hey,greet
+Where can I find the timetable?,ask_timetable
+There is a problem with the Wi-Fi in the hostel.,report_issue
+The hostel water is not working.,report_issue
+Hello,greet
+Good morning,greet
+Hi there,greet
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+Exam schedule kab aayega?,ask_exam_schedule
+Shukriya,thank_you
+I need the application for the government scholarship.,find_scholarship_form
+Library kab tak khuli rehti hai?,inquire_library_hours
+Show me the Electronics department timetable.,ask_timetable
+Where can I find the timetable?,ask_timetable
+Thank you so much,thank_you
+What is the schedule for Computer Science practical exams?,ask_exam_schedule
+Bye,goodbye
+Hello,greet
+Is the library open on Saturday?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+Hi there,greet
+Scholarship form kidhar milega?,find_scholarship_form
+Where can I find the timetable?,ask_timetable
+When are the exams starting?,ask_exam_schedule
+Fee payment ki last date kya hai?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+Bye,goodbye
+Tell me more about the college fest.,ask_about_events
+When does the library open?,inquire_library_hours
+Goodbye,goodbye
+When does the library open?,inquire_library_hours
+"That was helpful, thanks",thank_you
+What is the fee deadline?,ask_fee_deadline
+When are the exams starting?,ask_exam_schedule
+Thanks,thank_you
+Tata,goodbye
+"That was helpful, thanks",thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+The canteen food is not working.,report_issue
+Hey,greet
+Timings for the main library?,inquire_library_hours
+Tata,goodbye
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+first year ka time table hai?,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+Show me the scholarship forms for MCA students.,find_scholarship_form
+"That was helpful, thanks",thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+Good evening,greet
+Thank you so much,thank_you
+What is the fee deadline?,ask_fee_deadline
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+There is a problem with the library computer in the hostel.,report_issue
+I need the application for the government scholarship.,find_scholarship_form
+Shukriya,thank_you
+I need the application for the government scholarship.,find_scholarship_form
+Is the library open on Saturday?,inquire_library_hours
+sports meet kab hai?,ask_about_events
+Thanks,thank_you
+Thank you so much,thank_you
+There is a problem with the Wi-Fi in the hostel.,report_issue
+Show me the dates for the final exams.,ask_exam_schedule
+When are the 1st semester fees due?,ask_fee_deadline
+Scholarship form kidhar milega?,find_scholarship_form
+"That was helpful, thanks",thank_you
+Library kab tak khuli rehti hai?,inquire_library_hours
+Whom to contact for a hostel water issue?,report_issue
+The Wi-Fi is not working.,report_issue
+Library kab tak khuli rehti hai?,inquire_library_hours
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+Bye,goodbye
+What is the schedule for Computer Science practical exams?,ask_exam_schedule
+I need the application for the government scholarship.,find_scholarship_form
+Exam schedule kab aayega?,ask_exam_schedule
+Shukriya,thank_you
+Good morning,greet
+Timings for the main library?,inquire_library_hours
+"That was helpful, thanks",thank_you
+Hi there,greet
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+When are the exams starting?,ask_exam_schedule
+Thank you so much,thank_you
+Exam schedule kab aayega?,ask_exam_schedule
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+third year ka time table hai?,ask_timetable
+The library computer is not working.,report_issue
+Fee payment ki last date kya hai?,ask_fee_deadline
+Timings for the main library?,inquire_library_hours
+second year ka time table hai?,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+Shukriya,thank_you
+first year ka time table hai?,ask_timetable
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+When does the library open?,inquire_library_hours
+sports meet kab hai?,ask_about_events
+Show me the dates for the final exams.,ask_exam_schedule
+Wassup,greet
+Show me the dates for the final exams.,ask_exam_schedule
+Any workshops happening this month?,ask_about_events
+When is the hackathon?,ask_about_events
+Where can I find the scholarship form?,find_scholarship_form
+When are the 4th semester fees due?,ask_fee_deadline
+Show me the dates for the final exams.,ask_exam_schedule
+When is the last date for fee submission?,ask_fee_deadline
+Hey,greet
+Wassup,greet
+Good morning,greet
+Whom to contact for a library computer issue?,report_issue
+Scholarship form kidhar milega?,find_scholarship_form
+I need the exam timetable for the 8th semester.,ask_exam_schedule
+When is the sports meet?,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+When are the exams starting?,ask_exam_schedule
+When is the last date for fee submission?,ask_fee_deadline
+Bye,goodbye
+Tata,goodbye
+Timetable for M.Tech please.,ask_timetable
+The hostel water is not working.,report_issue
+I want to report an issue.,report_issue
+Hey,greet
+Tell me more about the college fest.,ask_about_events
+Shukriya,thank_you
+sports meet kab hai?,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+The Wi-Fi is not working.,report_issue
+I need the application for the government scholarship.,find_scholarship_form
+Hey,greet
+Thanks,thank_you
+second year ka time table hai?,ask_timetable
+Any workshops happening this month?,ask_about_events
+Show me the Electronics department timetable.,ask_timetable
+Thank you so much,thank_you
+What are the library hours?,inquire_library_hours
+Hi there,greet
+Is there any upcoming event?,ask_about_events
+What are the library hours?,inquire_library_hours
+final year ka time table hai?,ask_timetable
+When is the last date for fee submission?,ask_fee_deadline
+Fee payment ki last date kya hai?,ask_fee_deadline
+Thank you so much,thank_you
+Shukriya,thank_you
+Exam schedule kab aayega?,ask_exam_schedule
+final year ka time table hai?,ask_timetable
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+Hey,greet
+Good morning,greet
+I need the application for the government scholarship.,find_scholarship_form
+Fee payment ki last date kya hai?,ask_fee_deadline
+Whom to contact for a canteen food issue?,report_issue
+Hi there,greet
+Shukriya,thank_you
+When are the 6th semester fees due?,ask_fee_deadline
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+tech symposium kab hai?,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+Is the library open on Saturday?,inquire_library_hours
+When does the library open?,inquire_library_hours
+Tell me more about the college fest.,ask_about_events
+What are the library hours?,inquire_library_hours
+Where can I find the scholarship form?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Tata,goodbye
+When does the library open?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+Show me the scholarship forms for MCA students.,find_scholarship_form
+Timings for the main library?,inquire_library_hours
+Show me the dates for the final exams.,ask_exam_schedule
+When does the library open?,inquire_library_hours
+See you later,goodbye
+There is a problem with the hostel water in the hostel.,report_issue
+I need the application for the government scholarship.,find_scholarship_form
+Show me the Civil department timetable.,ask_timetable
+There is a problem with the Wi-Fi in the hostel.,report_issue
+I need the exam timetable for the 4th semester.,ask_exam_schedule
+first year ka time table hai?,ask_timetable
+Is the library open on Saturday?,inquire_library_hours
+Fee payment ki last date kya hai?,ask_fee_deadline
+I need the class schedule for the 7th semester.,ask_timetable
+Where can I find the timetable?,ask_timetable
+See you later,goodbye
+Fee payment ki last date kya hai?,ask_fee_deadline
+My classroom's projector is broken.,report_issue
+Show me the Electronics department timetable.,ask_timetable
+Shukriya,thank_you
+Library kab tak khuli rehti hai?,inquire_library_hours
+Library kab tak khuli rehti hai?,inquire_library_hours
+Whom to contact for a canteen food issue?,report_issue
+Exam schedule kab aayega?,ask_exam_schedule
+Tell me the final date for paying my B.Tech fees.,ask_fee_deadline
+Good evening,greet
+Where can I find the timetable?,ask_timetable
+Hello,greet
+When does the library open?,inquire_library_hours
+I want to report an issue.,report_issue
+When are the 4th semester fees due?,ask_fee_deadline
+My classroom's projector is broken.,report_issue
+Where can I find the timetable?,ask_timetable
+When are the exams starting?,ask_exam_schedule
+Good evening,greet
+Thank you so much,thank_you
+When does the library open?,inquire_library_hours
+Bye,goodbye
+When are the 8th semester fees due?,ask_fee_deadline
+Tell me more about the college fest.,ask_about_events
+Wassup,greet
+Is there any upcoming event?,ask_about_events
+Show me the scholarship forms for MBA students.,find_scholarship_form
+Thank you so much,thank_you
+Timetable for MBA please.,ask_timetable
+When is the last date for fee submission?,ask_fee_deadline
+When is the last date for fee submission?,ask_fee_deadline
+Is the library open on Saturday?,inquire_library_hours
+Fee payment ki last date kya hai?,ask_fee_deadline
+Tata,goodbye
+Fee payment ki last date kya hai?,ask_fee_deadline
+See you later,goodbye
+Any workshops happening this month?,ask_about_events
+Fee payment ki last date kya hai?,ask_fee_deadline
+What is the fee deadline?,ask_fee_deadline
+My classroom's projector is broken.,report_issue
+See you later,goodbye
+Timetable for B.Tech please.,ask_timetable
+The Wi-Fi is not working.,report_issue
+Thank you so much,thank_you
+What are the library hours?,inquire_library_hours
+Hey,greet
+Thank you so much,thank_you
+Show me the dates for the final exams.,ask_exam_schedule
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+"That was helpful, thanks",thank_you
+Good evening,greet
+What is the schedule for Mechanical practical exams?,ask_exam_schedule
+I need the exam timetable for the 5th semester.,ask_exam_schedule
+I have to go,goodbye
+Fee payment ki last date kya hai?,ask_fee_deadline
+Shukriya,thank_you
+When is the sports meet?,ask_about_events
+Fee payment ki last date kya hai?,ask_fee_deadline
+I need the class schedule for the 3rd semester.,ask_timetable
+What are the library hours?,inquire_library_hours
+Show me the scholarship forms for MBA students.,find_scholarship_form
+Timings for the main library?,inquire_library_hours
+When are the exams starting?,ask_exam_schedule
+final year ka time table hai?,ask_timetable
+Where can I find the timetable?,ask_timetable
+hackathon kab hai?,ask_about_events
+Thanks,thank_you
+Any workshops happening this month?,ask_about_events
+sports meet kab hai?,ask_about_events
+I have to go,goodbye
+Good morning,greet
+Is there any upcoming event?,ask_about_events
+Show me the scholarship forms for MBA students.,find_scholarship_form
+What is the fee deadline?,ask_fee_deadline
+Thank you so much,thank_you
+Shukriya,thank_you
+When is the sports meet?,ask_about_events
+Tell me more about the college fest.,ask_about_events
+Bye,goodbye
+I need the application for the government scholarship.,find_scholarship_form
+I have to go,goodbye
+Hello,greet
+Bye,goodbye
+Thanks,thank_you
+See you later,goodbye
+Show me the Computer Science department timetable.,ask_timetable
+Timetable for B.Tech please.,ask_timetable
+I have to go,goodbye
+Any workshops happening this month?,ask_about_events
+Is there any upcoming event?,ask_about_events
+See you later,goodbye
+When is the last date for fee submission?,ask_fee_deadline
+What are the library hours?,inquire_library_hours
+Where can I find the timetable?,ask_timetable
+Hey,greet
+Good evening,greet
+Thanks,thank_you
+I need the exam timetable for the 6th semester.,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+Show me the dates for the final exams.,ask_exam_schedule
+annual fest kab hai?,ask_about_events
+Where can I find the scholarship form?,find_scholarship_form
+Where can I find the scholarship form?,find_scholarship_form
+I need the application for the government scholarship.,find_scholarship_form
+My classroom's projector is broken.,report_issue
+When is the sports meet?,ask_about_events
+Timings for the main library?,inquire_library_hours
+Tell me more about the college fest.,ask_about_events
+"That was helpful, thanks",thank_you
+Hello,greet
+There is a problem with the Wi-Fi in the hostel.,report_issue
+Is the library open on Saturday?,inquire_library_hours
+When is the last date for fee submission?,ask_fee_deadline
+I want to report an issue.,report_issue
+When is the tech symposium?,ask_about_events
+See you later,goodbye
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Show me the scholarship forms for MCA students.,find_scholarship_form
+My classroom's projector is broken.,report_issue
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+When are the exams starting?,ask_exam_schedule
+"That was helpful, thanks",thank_you
+Bye,goodbye
+Goodbye,goodbye
+Is the library open on Saturday?,inquire_library_hours
+When are the 5th semester fees due?,ask_fee_deadline
+Timetable for B.Tech please.,ask_timetable
+I want to report an issue.,report_issue
+Hello,greet
+Good morning,greet
+See you later,goodbye
+The Wi-Fi is not working.,report_issue
+The canteen food is not working.,report_issue
+Is the library open on Saturday?,inquire_library_hours
+My classroom's projector is broken.,report_issue
+Thank you so much,thank_you
+Goodbye,goodbye
+Good evening,greet
+When is the annual fest?,ask_about_events
+Exam schedule kab aayega?,ask_exam_schedule
+Tell me more about the college fest.,ask_about_events
+I want to report an issue.,report_issue
+When are the 4th semester fees due?,ask_fee_deadline
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+third year ka time table hai?,ask_timetable
+I want to report an issue.,report_issue
+Hi there,greet
+The Wi-Fi is not working.,report_issue
+Timetable for M.Tech please.,ask_timetable
+What is the fee deadline?,ask_fee_deadline
+When are the 5th semester fees due?,ask_fee_deadline
+Timetable for MCA please.,ask_timetable
+Whom to contact for a library computer issue?,report_issue
+Wassup,greet
+Tell me more about the college fest.,ask_about_events
+When are the exams starting?,ask_exam_schedule
+When is the last date for fee submission?,ask_fee_deadline
+When are the 4th semester fees due?,ask_fee_deadline
+Any workshops happening this month?,ask_about_events
+Hi there,greet
+"That was helpful, thanks",thank_you
+What is the schedule for Computer Science practical exams?,ask_exam_schedule
+Where can I find the scholarship form?,find_scholarship_form
+Tell me more about the college fest.,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+Where can I find the timetable?,ask_timetable
+What is the schedule for Mechanical practical exams?,ask_exam_schedule
+Thanks,thank_you
+Library kab tak khuli rehti hai?,inquire_library_hours
+Is the library open on Saturday?,inquire_library_hours
+Whom to contact for a hostel water issue?,report_issue
+Bye,goodbye
+Any workshops happening this month?,ask_about_events
+Goodbye,goodbye
+What are the library hours?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+Fee payment ki last date kya hai?,ask_fee_deadline
+Fee payment ki last date kya hai?,ask_fee_deadline
+Good evening,greet
+When is the sports meet?,ask_about_events
+When does the library open?,inquire_library_hours
+My classroom's projector is broken.,report_issue
+Exam schedule kab aayega?,ask_exam_schedule
+When are the 7th semester fees due?,ask_fee_deadline
+I need the application for the government scholarship.,find_scholarship_form
+Where can I find the scholarship form?,find_scholarship_form
+Bye,goodbye
+Tell me more about the college fest.,ask_about_events
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+I need the application for the government scholarship.,find_scholarship_form
+Hello,greet
+"That was helpful, thanks",thank_you
+Thank you so much,thank_you
+Show me the IT department timetable.,ask_timetable
+What are the library hours?,inquire_library_hours
+Scholarship form kidhar milega?,find_scholarship_form
+Fee payment ki last date kya hai?,ask_fee_deadline
+Tell me the final date for paying my B.Tech fees.,ask_fee_deadline
+Is the library open on Saturday?,inquire_library_hours
+The canteen food is not working.,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+Where can I find the scholarship form?,find_scholarship_form
+Shukriya,thank_you
+"That was helpful, thanks",thank_you
+See you later,goodbye
+Thank you so much,thank_you
+Any workshops happening this month?,ask_about_events
+Is the library open on Saturday?,inquire_library_hours
+first year ka time table hai?,ask_timetable
+When is the last date for fee submission?,ask_fee_deadline
+I need the application for the government scholarship.,find_scholarship_form
+Where can I find the scholarship form?,find_scholarship_form
+When does the library open?,inquire_library_hours
+Hey,greet
+Timetable for MCA please.,ask_timetable
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+hackathon kab hai?,ask_about_events
+Shukriya,thank_you
+Tata,goodbye
+I need the exam timetable for the 7th semester.,ask_exam_schedule
+Hey,greet
+When is the sports meet?,ask_about_events
+When does the library open?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+Hello,greet
+Good morning,greet
+I have to go,goodbye
+Thank you so much,thank_you
+When are the exams starting?,ask_exam_schedule
+My classroom's projector is broken.,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+What are the library hours?,inquire_library_hours
+"That was helpful, thanks",thank_you
+What are the library hours?,inquire_library_hours
+third year ka time table hai?,ask_timetable
+Good evening,greet
+What is the schedule for IT practical exams?,ask_exam_schedule
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+Whom to contact for a canteen food issue?,report_issue
+What is the fee deadline?,ask_fee_deadline
+What is the fee deadline?,ask_fee_deadline
+Hi there,greet
+Hey,greet
+Scholarship form kidhar milega?,find_scholarship_form
+Timings for the main library?,inquire_library_hours
+Tata,goodbye
+Is there any upcoming event?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+What is the fee deadline?,ask_fee_deadline
+"That was helpful, thanks",thank_you
+See you later,goodbye
+third year ka time table hai?,ask_timetable
+sports meet kab hai?,ask_about_events
+Scholarship form kidhar milega?,find_scholarship_form
+The canteen food is not working.,report_issue
+I have to go,goodbye
+Wassup,greet
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+tech symposium kab hai?,ask_about_events
+first year ka time table hai?,ask_timetable
+Tell me more about the college fest.,ask_about_events
+Where can I find the timetable?,ask_timetable
+When does the library open?,inquire_library_hours
+Hi there,greet
+Fee payment ki last date kya hai?,ask_fee_deadline
+What is the fee deadline?,ask_fee_deadline
+My classroom's projector is broken.,report_issue
+See you later,goodbye
+Whom to contact for a library computer issue?,report_issue
+Timings for the main library?,inquire_library_hours
+When are the exams starting?,ask_exam_schedule
+There is a problem with the library computer in the hostel.,report_issue
+I want to report an issue.,report_issue
+Timings for the main library?,inquire_library_hours
+Wassup,greet
+When are the 4th semester fees due?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+I have to go,goodbye
+Timings for the main library?,inquire_library_hours
+Tell me the final date for paying my MBA fees.,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+Bye,goodbye
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+I need the application for the government scholarship.,find_scholarship_form
+Is the library open on Saturday?,inquire_library_hours
+Show me the scholarship forms for MBA students.,find_scholarship_form
+hackathon kab hai?,ask_about_events
+Goodbye,goodbye
+Bye,goodbye
+final year ka time table hai?,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+Good morning,greet
+Thank you so much,thank_you
+"That was helpful, thanks",thank_you
+Hello,greet
+Wassup,greet
+Timetable for M.Tech please.,ask_timetable
+Hey,greet
+"That was helpful, thanks",thank_you
+Tell me the final date for paying my MBA fees.,ask_fee_deadline
+Tell me the final date for paying my MBA fees.,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+Thank you so much,thank_you
+Fee payment ki last date kya hai?,ask_fee_deadline
+Exam schedule kab aayega?,ask_exam_schedule
+"That was helpful, thanks",thank_you
+When are the exams starting?,ask_exam_schedule
+Thank you so much,thank_you
+Goodbye,goodbye
+Wassup,greet
+Scholarship form kidhar milega?,find_scholarship_form
+Good evening,greet
+See you later,goodbye
+There is a problem with the Wi-Fi in the hostel.,report_issue
+annual fest kab hai?,ask_about_events
+Where can I find the scholarship form?,find_scholarship_form
+Show me the Civil department timetable.,ask_timetable
+What is the schedule for IT practical exams?,ask_exam_schedule
+Show me the Mechanical department timetable.,ask_timetable
+When are the 4th semester fees due?,ask_fee_deadline
+Tell me more about the college fest.,ask_about_events
+The library computer is not working.,report_issue
+"That was helpful, thanks",thank_you
+When is the last date for fee submission?,ask_fee_deadline
+Exam schedule kab aayega?,ask_exam_schedule
+Thank you so much,thank_you
+Any workshops happening this month?,ask_about_events
+I need the class schedule for the 6th semester.,ask_timetable
+I have to go,goodbye
+Show me the scholarship forms for MCA students.,find_scholarship_form
+third year ka time table hai?,ask_timetable
+Timetable for MCA please.,ask_timetable
+Good morning,greet
+When is the hackathon?,ask_about_events
+There is a problem with the canteen food in the hostel.,report_issue
+Any workshops happening this month?,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+Bye,goodbye
+The canteen food is not working.,report_issue
+When are the exams starting?,ask_exam_schedule
+Scholarship form kidhar milega?,find_scholarship_form
+Where can I find the scholarship form?,find_scholarship_form
+When does the library open?,inquire_library_hours
+sports meet kab hai?,ask_about_events
+Is there any upcoming event?,ask_about_events
+What are the library hours?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+See you later,goodbye
+Show me the Electronics department timetable.,ask_timetable
+Hey,greet
+Fee payment ki last date kya hai?,ask_fee_deadline
+Bye,goodbye
+When are the exams starting?,ask_exam_schedule
+When are the 7th semester fees due?,ask_fee_deadline
+I need the exam timetable for the 1st semester.,ask_exam_schedule
+When is the last date for fee submission?,ask_fee_deadline
+I need the class schedule for the 7th semester.,ask_timetable
+Shukriya,thank_you
+Timings for the main library?,inquire_library_hours
+I want to report an issue.,report_issue
+Thank you so much,thank_you
+Is the library open on Saturday?,inquire_library_hours
+Fee payment ki last date kya hai?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+When are the exams starting?,ask_exam_schedule
+I need the exam timetable for the 1st semester.,ask_exam_schedule
+Wassup,greet
+Hello,greet
+Where can I find the timetable?,ask_timetable
+Hi there,greet
+Show me the Civil department timetable.,ask_timetable
+I need the class schedule for the 4th semester.,ask_timetable
+Thanks,thank_you
+There is a problem with the library computer in the hostel.,report_issue
+Wassup,greet
+See you later,goodbye
+Hey,greet
+Where can I find the scholarship form?,find_scholarship_form
+Thanks,thank_you
+Thanks,thank_you
+Library kab tak khuli rehti hai?,inquire_library_hours
+The Wi-Fi is not working.,report_issue
+Thank you so much,thank_you
+When does the library open?,inquire_library_hours
+The Wi-Fi is not working.,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+The Wi-Fi is not working.,report_issue
+Library kab tak khuli rehti hai?,inquire_library_hours
+I want to report an issue.,report_issue
+Wassup,greet
+Shukriya,thank_you
+Show me the dates for the final exams.,ask_exam_schedule
+There is a problem with the library computer in the hostel.,report_issue
+Any workshops happening this month?,ask_about_events
+When are the 8th semester fees due?,ask_fee_deadline
+Show me the scholarship forms for MBA students.,find_scholarship_form
+I need the application for the government scholarship.,find_scholarship_form
+What is the schedule for IT practical exams?,ask_exam_schedule
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+second year ka time table hai?,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+Show me the Mechanical department timetable.,ask_timetable
+I need the class schedule for the 1st semester.,ask_timetable
+"That was helpful, thanks",thank_you
+"That was helpful, thanks",thank_you
+There is a problem with the canteen food in the hostel.,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+Show me the IT department timetable.,ask_timetable
+Good evening,greet
+Goodbye,goodbye
+Tell me the final date for paying my B.Tech fees.,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+My classroom's projector is broken.,report_issue
+Timings for the main library?,inquire_library_hours
+Tata,goodbye
+Bye,goodbye
+Good evening,greet
+What are the library hours?,inquire_library_hours
+Shukriya,thank_you
+What are the library hours?,inquire_library_hours
+Thank you so much,thank_you
+Fee payment ki last date kya hai?,ask_fee_deadline
+Good evening,greet
+Tell me more about the college fest.,ask_about_events
+Timetable for M.Tech please.,ask_timetable
+The library computer is not working.,report_issue
+Timings for the main library?,inquire_library_hours
+Where can I find the timetable?,ask_timetable
+The hostel water is not working.,report_issue
+Whom to contact for a hostel water issue?,report_issue
+Tell me more about the college fest.,ask_about_events
+Thank you so much,thank_you
+"That was helpful, thanks",thank_you
+Thank you so much,thank_you
+Show me the scholarship forms for MCA students.,find_scholarship_form
+I need the exam timetable for the 2nd semester.,ask_exam_schedule
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+When is the last date for fee submission?,ask_fee_deadline
+What is the fee deadline?,ask_fee_deadline
+Hey,greet
+Thank you so much,thank_you
+Fee payment ki last date kya hai?,ask_fee_deadline
+I need the class schedule for the 1st semester.,ask_timetable
+When are the exams starting?,ask_exam_schedule
+Wassup,greet
+"That was helpful, thanks",thank_you
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+When are the 6th semester fees due?,ask_fee_deadline
+Scholarship form kidhar milega?,find_scholarship_form
+Where can I find the timetable?,ask_timetable
+There is a problem with the library computer in the hostel.,report_issue
+When is the tech symposium?,ask_about_events
+Goodbye,goodbye
+Good morning,greet
+When are the 3rd semester fees due?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+There is a problem with the library computer in the hostel.,report_issue
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+Show me the scholarship forms for MCA students.,find_scholarship_form
+What is the schedule for Civil practical exams?,ask_exam_schedule
+Where can I find the timetable?,ask_timetable
+What is the fee deadline?,ask_fee_deadline
+Hello,greet
+second year ka time table hai?,ask_timetable
+"That was helpful, thanks",thank_you
+I need the exam timetable for the 5th semester.,ask_exam_schedule
+What is the fee deadline?,ask_fee_deadline
+I need the application for the government scholarship.,find_scholarship_form
+Bye,goodbye
+Show me the Electronics department timetable.,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+When is the tech symposium?,ask_about_events
+Show me the IT department timetable.,ask_timetable
+Show me the dates for the final exams.,ask_exam_schedule
+Show me the Computer Science department timetable.,ask_timetable
+When are the exams starting?,ask_exam_schedule
+Scholarship form kidhar milega?,find_scholarship_form
+Timings for the main library?,inquire_library_hours
+Thanks,thank_you
+Show me the Electronics department timetable.,ask_timetable
+When does the library open?,inquire_library_hours
+Thank you so much,thank_you
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+When is the last date for fee submission?,ask_fee_deadline
+Good morning,greet
+When are the exams starting?,ask_exam_schedule
+My classroom's projector is broken.,report_issue
+When are the 7th semester fees due?,ask_fee_deadline
+The canteen food is not working.,report_issue
+See you later,goodbye
+Is the library open on Saturday?,inquire_library_hours
+Bye,goodbye
+Tell me more about the college fest.,ask_about_events
+Show me the scholarship forms for MCA students.,find_scholarship_form
+second year ka time table hai?,ask_timetable
+Thank you so much,thank_you
+Shukriya,thank_you
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+When are the 4th semester fees due?,ask_fee_deadline
+I want to report an issue.,report_issue
+Tell me more about the college fest.,ask_about_events
+Wassup,greet
+Show me the scholarship forms for MCA students.,find_scholarship_form
+When are the exams starting?,ask_exam_schedule
+Library kab tak khuli rehti hai?,inquire_library_hours
+Thank you so much,thank_you
+Goodbye,goodbye
+Thanks,thank_you
+Shukriya,thank_you
+Good evening,greet
+I need the class schedule for the 8th semester.,ask_timetable
+Show me the Civil department timetable.,ask_timetable
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+Show me the Mechanical department timetable.,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+I have to go,goodbye
+When are the exams starting?,ask_exam_schedule
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+When does the library open?,inquire_library_hours
+Timings for the main library?,inquire_library_hours
+Show me the dates for the final exams.,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+Hello,greet
+Hello,greet
+When is the sports meet?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+Wassup,greet
+Hi there,greet
+What is the fee deadline?,ask_fee_deadline
+Where can I find the timetable?,ask_timetable
+When are the exams starting?,ask_exam_schedule
+Whom to contact for a Wi-Fi issue?,report_issue
+The library computer is not working.,report_issue
+I need the application for the government scholarship.,find_scholarship_form
+See you later,goodbye
+Goodbye,goodbye
+There is a problem with the library computer in the hostel.,report_issue
+Is there any upcoming event?,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+Library kab tak khuli rehti hai?,inquire_library_hours
+There is a problem with the hostel water in the hostel.,report_issue
+Scholarship form kidhar milega?,find_scholarship_form
+I have to go,goodbye
+I want to report an issue.,report_issue
+Shukriya,thank_you
+Whom to contact for a canteen food issue?,report_issue
+When is the last date for fee submission?,ask_fee_deadline
+Tell me more about the college fest.,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+I want to report an issue.,report_issue
+Fee payment ki last date kya hai?,ask_fee_deadline
+Fee payment ki last date kya hai?,ask_fee_deadline
+I need the exam timetable for the 7th semester.,ask_exam_schedule
+Tell me more about the college fest.,ask_about_events
+tech symposium kab hai?,ask_about_events
+Whom to contact for a canteen food issue?,report_issue
+Thanks,thank_you
+Bye,goodbye
+Where can I find the timetable?,ask_timetable
+Library kab tak khuli rehti hai?,inquire_library_hours
+What is the fee deadline?,ask_fee_deadline
+Hi there,greet
+Tell me more about the college fest.,ask_about_events
+Tata,goodbye
+hackathon kab hai?,ask_about_events
+Whom to contact for a canteen food issue?,report_issue
+Fee payment ki last date kya hai?,ask_fee_deadline
+Show me the scholarship forms for MBA students.,find_scholarship_form
+When are the exams starting?,ask_exam_schedule
+Fee payment ki last date kya hai?,ask_fee_deadline
+Tata,goodbye
+When is the sports meet?,ask_about_events
+Library kab tak khuli rehti hai?,inquire_library_hours
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+I need the class schedule for the 6th semester.,ask_timetable
+Hi there,greet
+The library computer is not working.,report_issue
+Tell me the final date for paying my B.Tech fees.,ask_fee_deadline
+Scholarship form kidhar milega?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+Thank you so much,thank_you
+Exam schedule kab aayega?,ask_exam_schedule
+Library kab tak khuli rehti hai?,inquire_library_hours
+Good morning,greet
+Thank you so much,thank_you
+Goodbye,goodbye
+There is a problem with the hostel water in the hostel.,report_issue
+What are the library hours?,inquire_library_hours
+What is the schedule for Mechanical practical exams?,ask_exam_schedule
+I have to go,goodbye
+Whom to contact for a library computer issue?,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+Where can I find the timetable?,ask_timetable
+Tata,goodbye
+When are the 3rd semester fees due?,ask_fee_deadline
+"That was helpful, thanks",thank_you
+Timetable for M.Tech please.,ask_timetable
+When are the exams starting?,ask_exam_schedule
+Hi there,greet
+I need the application for the government scholarship.,find_scholarship_form
+When is the sports meet?,ask_about_events
+Exam schedule kab aayega?,ask_exam_schedule
+When does the library open?,inquire_library_hours
+I need the class schedule for the 6th semester.,ask_timetable
+Scholarship form kidhar milega?,find_scholarship_form
+When does the library open?,inquire_library_hours
+See you later,goodbye
+See you later,goodbye
+I have to go,goodbye
+When does the library open?,inquire_library_hours
+Timetable for B.Tech please.,ask_timetable
+I need the application for the government scholarship.,find_scholarship_form
+Library kab tak khuli rehti hai?,inquire_library_hours
+Timings for the main library?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+Scholarship form kidhar milega?,find_scholarship_form
+Timings for the main library?,inquire_library_hours
+Tell me more about the college fest.,ask_about_events
+Show me the dates for the final exams.,ask_exam_schedule
+What is the fee deadline?,ask_fee_deadline
+Tata,goodbye
+Fee payment ki last date kya hai?,ask_fee_deadline
+Thanks,thank_you
+Any workshops happening this month?,ask_about_events
+I need the class schedule for the 8th semester.,ask_timetable
+Bye,goodbye
+I need the application for the government scholarship.,find_scholarship_form
+When is the sports meet?,ask_about_events
+I need the exam timetable for the 5th semester.,ask_exam_schedule
+The canteen food is not working.,report_issue
+I need the class schedule for the 5th semester.,ask_timetable
+I need the exam timetable for the 1st semester.,ask_exam_schedule
+Fee payment ki last date kya hai?,ask_fee_deadline
+Where can I find the timetable?,ask_timetable
+Any workshops happening this month?,ask_about_events
+I need the class schedule for the 2nd semester.,ask_timetable
+Hi there,greet
+There is a problem with the hostel water in the hostel.,report_issue
+first year ka time table hai?,ask_timetable
+What is the schedule for IT practical exams?,ask_exam_schedule
+When does the library open?,inquire_library_hours
+Goodbye,goodbye
+What is the fee deadline?,ask_fee_deadline
+Timings for the main library?,inquire_library_hours
+Whom to contact for a Wi-Fi issue?,report_issue
+Whom to contact for a canteen food issue?,report_issue
+There is a problem with the Wi-Fi in the hostel.,report_issue
+My classroom's projector is broken.,report_issue
+Show me the Electronics department timetable.,ask_timetable
+What is the schedule for Civil practical exams?,ask_exam_schedule
+Hello,greet
+Fee payment ki last date kya hai?,ask_fee_deadline
+I need the exam timetable for the 8th semester.,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+I need the class schedule for the 7th semester.,ask_timetable
+Tell me more about the college fest.,ask_about_events
+Hey,greet
+Shukriya,thank_you
+Thanks,thank_you
+Show me the Computer Science department timetable.,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+What is the schedule for Civil practical exams?,ask_exam_schedule
+What is the schedule for Computer Science practical exams?,ask_exam_schedule
+Where can I find the scholarship form?,find_scholarship_form
+Whom to contact for a Wi-Fi issue?,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+I need the class schedule for the 6th semester.,ask_timetable
+When is the last date for fee submission?,ask_fee_deadline
+Any workshops happening this month?,ask_about_events
+third year ka time table hai?,ask_timetable
+Tell me more about the college fest.,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+What is the schedule for Computer Science practical exams?,ask_exam_schedule
+Timings for the main library?,inquire_library_hours
+Where can I find the scholarship form?,find_scholarship_form
+Good evening,greet
+tech symposium kab hai?,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+When are the exams starting?,ask_exam_schedule
+Is there any upcoming event?,ask_about_events
+Thanks,thank_you
+What are the library hours?,inquire_library_hours
+Is there any upcoming event?,ask_about_events
+Where can I find the timetable?,ask_timetable
+final year ka time table hai?,ask_timetable
+sports meet kab hai?,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+Scholarship form kidhar milega?,find_scholarship_form
+What is the schedule for Civil practical exams?,ask_exam_schedule
+What is the fee deadline?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+Show me the Electronics department timetable.,ask_timetable
+Is the library open on Saturday?,inquire_library_hours
+My classroom's projector is broken.,report_issue
+Shukriya,thank_you
+Good evening,greet
+hackathon kab hai?,ask_about_events
+Timetable for M.Tech please.,ask_timetable
+Show me the dates for the final exams.,ask_exam_schedule
+Timetable for M.Tech please.,ask_timetable
+Good morning,greet
+Thanks,thank_you
+Any workshops happening this month?,ask_about_events
+Thanks,thank_you
+The library computer is not working.,report_issue
+Bye,goodbye
+Where can I find the scholarship form?,find_scholarship_form
+Timetable for B.Tech please.,ask_timetable
+Library kab tak khuli rehti hai?,inquire_library_hours
+Thank you so much,thank_you
+Timings for the main library?,inquire_library_hours
+Timings for the main library?,inquire_library_hours
+Timings for the main library?,inquire_library_hours
+Library kab tak khuli rehti hai?,inquire_library_hours
+Show me the scholarship forms for MBA students.,find_scholarship_form
+Is there any upcoming event?,ask_about_events
+Show me the Mechanical department timetable.,ask_timetable
+Any workshops happening this month?,ask_about_events
+When are the 3rd semester fees due?,ask_fee_deadline
+Where can I find the timetable?,ask_timetable
+Timetable for B.Tech please.,ask_timetable
+Good morning,greet
+When are the 7th semester fees due?,ask_fee_deadline
+Is the library open on Saturday?,inquire_library_hours
+Wassup,greet
+Good evening,greet
+I need the application for the government scholarship.,find_scholarship_form
+annual fest kab hai?,ask_about_events
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Timings for the main library?,inquire_library_hours
+Goodbye,goodbye
+Tata,goodbye
+Timetable for MBA please.,ask_timetable
+I have to go,goodbye
+Scholarship form kidhar milega?,find_scholarship_form
+Scholarship form kidhar milega?,find_scholarship_form
+The hostel water is not working.,report_issue
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+Thank you so much,thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+Is there any upcoming event?,ask_about_events
+When are the exams starting?,ask_exam_schedule
+There is a problem with the canteen food in the hostel.,report_issue
+Thanks,thank_you
+Show me the scholarship forms for M.Tech students.,find_scholarship_form
+Thanks,thank_you
+"That was helpful, thanks",thank_you
+I need the class schedule for the 7th semester.,ask_timetable
+When does the library open?,inquire_library_hours
+What is the fee deadline?,ask_fee_deadline
+When is the sports meet?,ask_about_events
+I need the class schedule for the 8th semester.,ask_timetable
+The library computer is not working.,report_issue
+The canteen food is not working.,report_issue
+Is the library open on Saturday?,inquire_library_hours
+When is the hackathon?,ask_about_events
+Good evening,greet
+Bye,goodbye
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+Any workshops happening this month?,ask_about_events
+I need the class schedule for the 4th semester.,ask_timetable
+Wassup,greet
+Tell me more about the college fest.,ask_about_events
+Is the library open on Saturday?,inquire_library_hours
+tech symposium kab hai?,ask_about_events
+Scholarship form kidhar milega?,find_scholarship_form
+Exam schedule kab aayega?,ask_exam_schedule
+When are the 1st semester fees due?,ask_fee_deadline
+Where can I find the scholarship form?,find_scholarship_form
+Hey,greet
+Hello,greet
+What are the library hours?,inquire_library_hours
+Good morning,greet
+"That was helpful, thanks",thank_you
+Hello,greet
+I want to report an issue.,report_issue
+What is the schedule for Civil practical exams?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+The Wi-Fi is not working.,report_issue
+third year ka time table hai?,ask_timetable
+Show me the dates for the final exams.,ask_exam_schedule
+The library computer is not working.,report_issue
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+Show me the IT department timetable.,ask_timetable
+Hey,greet
+My classroom's projector is broken.,report_issue
+What is the fee deadline?,ask_fee_deadline
+Hello,greet
+What is the schedule for Computer Science practical exams?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+The library computer is not working.,report_issue
+Where can I find the timetable?,ask_timetable
+When are the exams starting?,ask_exam_schedule
+Timetable for B.Tech please.,ask_timetable
+Thanks,thank_you
+Where can I find the scholarship form?,find_scholarship_form
+I need the exam timetable for the 2nd semester.,ask_exam_schedule
+When are the exams starting?,ask_exam_schedule
+When does the library open?,inquire_library_hours
+Where can I find the scholarship form?,find_scholarship_form
+Goodbye,goodbye
+Thanks,thank_you
+What are the library hours?,inquire_library_hours
+"That was helpful, thanks",thank_you
+When are the 4th semester fees due?,ask_fee_deadline
+There is a problem with the canteen food in the hostel.,report_issue
+I need the class schedule for the 4th semester.,ask_timetable
+I have to go,goodbye
+Timetable for MCA please.,ask_timetable
+Thank you so much,thank_you
+When are the exams starting?,ask_exam_schedule
+Library kab tak khuli rehti hai?,inquire_library_hours
+Is the library open on Saturday?,inquire_library_hours
+Bye,goodbye
+"That was helpful, thanks",thank_you
+Hey,greet
+See you later,goodbye
+There is a problem with the Wi-Fi in the hostel.,report_issue
+Shukriya,thank_you
+When is the last date for fee submission?,ask_fee_deadline
+What is the schedule for IT practical exams?,ask_exam_schedule
+There is a problem with the library computer in the hostel.,report_issue
+There is a problem with the library computer in the hostel.,report_issue
+Fee payment ki last date kya hai?,ask_fee_deadline
+Any workshops happening this month?,ask_about_events
+I want to report an issue.,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+Where can I find the timetable?,ask_timetable
+second year ka time table hai?,ask_timetable
+Thank you so much,thank_you
+Is there any upcoming event?,ask_about_events
+What are the library hours?,inquire_library_hours
+Goodbye,goodbye
+Shukriya,thank_you
+Thank you so much,thank_you
+I need the class schedule for the 2nd semester.,ask_timetable
+Fee payment ki last date kya hai?,ask_fee_deadline
+The canteen food is not working.,report_issue
+Is there any upcoming event?,ask_about_events
+My classroom's projector is broken.,report_issue
+"That was helpful, thanks",thank_you
+What is the schedule for Mechanical practical exams?,ask_exam_schedule
+Exam schedule kab aayega?,ask_exam_schedule
+Tata,goodbye
+Whom to contact for a canteen food issue?,report_issue
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+I need the class schedule for the 6th semester.,ask_timetable
+Show me the Mechanical department timetable.,ask_timetable
+Goodbye,goodbye
+Tell me more about the college fest.,ask_about_events
+When are the exams starting?,ask_exam_schedule
+Whom to contact for a hostel water issue?,report_issue
+"That was helpful, thanks",thank_you
+What is the schedule for Civil practical exams?,ask_exam_schedule
+first year ka time table hai?,ask_timetable
+Hi there,greet
+Show me the Civil department timetable.,ask_timetable
+Is the library open on Saturday?,inquire_library_hours
+annual fest kab hai?,ask_about_events
+What is the fee deadline?,ask_fee_deadline
+Show me the dates for the final exams.,ask_exam_schedule
+"That was helpful, thanks",thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+When does the library open?,inquire_library_hours
+Fee payment ki last date kya hai?,ask_fee_deadline
+Hello,greet
+Hey,greet
+Show me the scholarship forms for MBA students.,find_scholarship_form
+The Wi-Fi is not working.,report_issue
+I have to go,goodbye
+I have to go,goodbye
+Whom to contact for a Wi-Fi issue?,report_issue
+When does the library open?,inquire_library_hours
+What is the fee deadline?,ask_fee_deadline
+Timings for the main library?,inquire_library_hours
+"That was helpful, thanks",thank_you
+Where can I find the scholarship form?,find_scholarship_form
+Exam schedule kab aayega?,ask_exam_schedule
+I need the exam timetable for the 1st semester.,ask_exam_schedule
+Exam schedule kab aayega?,ask_exam_schedule
+Is the library open on Saturday?,inquire_library_hours
+Where can I find the scholarship form?,find_scholarship_form
+When does the library open?,inquire_library_hours
+Timetable for M.Tech please.,ask_timetable
+Tell me more about the college fest.,ask_about_events
+Tata,goodbye
+There is a problem with the canteen food in the hostel.,report_issue
+Good morning,greet
+hackathon kab hai?,ask_about_events
+I have to go,goodbye
+sports meet kab hai?,ask_about_events
+Tell me more about the college fest.,ask_about_events
+The library computer is not working.,report_issue
+Timetable for MCA please.,ask_timetable
+Shukriya,thank_you
+There is a problem with the Wi-Fi in the hostel.,report_issue
+When does the library open?,inquire_library_hours
+Thank you so much,thank_you
+When are the exams starting?,ask_exam_schedule
+Scholarship form kidhar milega?,find_scholarship_form
+Thank you so much,thank_you
+Exam schedule kab aayega?,ask_exam_schedule
+When are the 3rd semester fees due?,ask_fee_deadline
+first year ka time table hai?,ask_timetable
+Good morning,greet
+What is the schedule for Computer Science practical exams?,ask_exam_schedule
+Show me the Electronics department timetable.,ask_timetable
+See you later,goodbye
+I need the exam timetable for the 6th semester.,ask_exam_schedule
+Whom to contact for a Wi-Fi issue?,report_issue
+I want to report an issue.,report_issue
+"That was helpful, thanks",thank_you
+Is there any upcoming event?,ask_about_events
+I want to report an issue.,report_issue
+Goodbye,goodbye
+See you later,goodbye
+I have to go,goodbye
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+Library kab tak khuli rehti hai?,inquire_library_hours
+When is the last date for fee submission?,ask_fee_deadline
+Fee payment ki last date kya hai?,ask_fee_deadline
+Fee payment ki last date kya hai?,ask_fee_deadline
+Good evening,greet
+Show me the dates for the final exams.,ask_exam_schedule
+I need the application for the government scholarship.,find_scholarship_form
+Timings for the main library?,inquire_library_hours
+I need the application for the government scholarship.,find_scholarship_form
+Bye,goodbye
+Bye,goodbye
+I need the application for the government scholarship.,find_scholarship_form
+"That was helpful, thanks",thank_you
+Good evening,greet
+final year ka time table hai?,ask_timetable
+I want to report an issue.,report_issue
+What is the schedule for IT practical exams?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+Any workshops happening this month?,ask_about_events
+Fee payment ki last date kya hai?,ask_fee_deadline
+first year ka time table hai?,ask_timetable
+Good evening,greet
+Where can I find the timetable?,ask_timetable
+Tata,goodbye
+I need the exam timetable for the 3rd semester.,ask_exam_schedule
+My classroom's projector is broken.,report_issue
+Library kab tak khuli rehti hai?,inquire_library_hours
+The canteen food is not working.,report_issue
+Bye,goodbye
+When is the last date for fee submission?,ask_fee_deadline
+Shukriya,thank_you
+What is the fee deadline?,ask_fee_deadline
+Exam schedule kab aayega?,ask_exam_schedule
+Shukriya,thank_you
+Is there any upcoming event?,ask_about_events
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+I need the class schedule for the 4th semester.,ask_timetable
+Is the library open on Saturday?,inquire_library_hours
+Any workshops happening this month?,ask_about_events
+Tata,goodbye
+Library kab tak khuli rehti hai?,inquire_library_hours
+Where can I find the scholarship form?,find_scholarship_form
+Thank you so much,thank_you
+Any workshops happening this month?,ask_about_events
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+Bye,goodbye
+When are the 8th semester fees due?,ask_fee_deadline
+My classroom's projector is broken.,report_issue
+Where can I find the scholarship form?,find_scholarship_form
+Library kab tak khuli rehti hai?,inquire_library_hours
+Goodbye,goodbye
+What are the library hours?,inquire_library_hours
+Good evening,greet
+I want to report an issue.,report_issue
+Goodbye,goodbye
+Library kab tak khuli rehti hai?,inquire_library_hours
+My classroom's projector is broken.,report_issue
+Library kab tak khuli rehti hai?,inquire_library_hours
+Wassup,greet
+See you later,goodbye
+There is a problem with the hostel water in the hostel.,report_issue
+When are the 6th semester fees due?,ask_fee_deadline
+Tell me the final date for paying my MCA fees.,ask_fee_deadline
+"That was helpful, thanks",thank_you
+Where can I find the scholarship form?,find_scholarship_form
+Hi there,greet
+Fee payment ki last date kya hai?,ask_fee_deadline
+Scholarship form kidhar milega?,find_scholarship_form
+What is the schedule for Civil practical exams?,ask_exam_schedule
+Timings for the main library?,inquire_library_hours
+What is the fee deadline?,ask_fee_deadline
+Show me the scholarship forms for MBA students.,find_scholarship_form
+Shukriya,thank_you
+When are the 2nd semester fees due?,ask_fee_deadline
+What is the fee deadline?,ask_fee_deadline
+Thanks,thank_you
+Whom to contact for a library computer issue?,report_issue
+Good evening,greet
+Is there any upcoming event?,ask_about_events
+Tell me the final date for paying my M.Tech fees.,ask_fee_deadline
+Good evening,greet
+Is there any upcoming event?,ask_about_events
+When is the last date for fee submission?,ask_fee_deadline
+When is the tech symposium?,ask_about_events
+Scholarship form kidhar milega?,find_scholarship_form
+What is the schedule for IT practical exams?,ask_exam_schedule
+Good morning,greet
+When are the 8th semester fees due?,ask_fee_deadline
+Where can I find the timetable?,ask_timetable
+Show me the dates for the final exams.,ask_exam_schedule
+When does the library open?,inquire_library_hours
+Thanks,thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+Is the library open on Saturday?,inquire_library_hours
+Timetable for MCA please.,ask_timetable
+Is there any upcoming event?,ask_about_events
+Tell me more about the college fest.,ask_about_events
+I have to go,goodbye
+Show me the scholarship forms for B.Tech students.,find_scholarship_form
+sports meet kab hai?,ask_about_events
+Any workshops happening this month?,ask_about_events
+Any workshops happening this month?,ask_about_events
+Any workshops happening this month?,ask_about_events
+I need the application for the government scholarship.,find_scholarship_form
+Tell me more about the college fest.,ask_about_events
+Library kab tak khuli rehti hai?,inquire_library_hours
+What is the fee deadline?,ask_fee_deadline
+Bye,goodbye
+Scholarship form kidhar milega?,find_scholarship_form
+When is the last date for fee submission?,ask_fee_deadline
+I want to report an issue.,report_issue
+Good evening,greet
+I need the exam timetable for the 1st semester.,ask_exam_schedule
+Hello,greet
+Show me the dates for the final exams.,ask_exam_schedule
+I want to report an issue.,report_issue
+Is the library open on Saturday?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+What are the library hours?,inquire_library_hours
+What is the schedule for Electronics practical exams?,ask_exam_schedule
+When is the last date for fee submission?,ask_fee_deadline
+Tata,goodbye
+When are the 7th semester fees due?,ask_fee_deadline
+Tell me more about the college fest.,ask_about_events
+Fee payment ki last date kya hai?,ask_fee_deadline
+When does the library open?,inquire_library_hours
+There is a problem with the hostel water in the hostel.,report_issue
+I need the application for the government scholarship.,find_scholarship_form
+The hostel water is not working.,report_issue
+Tell me more about the college fest.,ask_about_events
+Tata,goodbye
+My classroom's projector is broken.,report_issue
+Where can I find the timetable?,ask_timetable
+Fee payment ki last date kya hai?,ask_fee_deadline
+Show me the Computer Science department timetable.,ask_timetable
+Where can I find the timetable?,ask_timetable
+I need the application for the government scholarship.,find_scholarship_form
+Any workshops happening this month?,ask_about_events
+Is the library open on Saturday?,inquire_library_hours
+See you later,goodbye
+When are the 3rd semester fees due?,ask_fee_deadline
+Where can I find the timetable?,ask_timetable
+Hi there,greet
+Good evening,greet
+I want to report an issue.,report_issue
+Thank you so much,thank_you
+When are the exams starting?,ask_exam_schedule
+What are the library hours?,inquire_library_hours
+Show me the Civil department timetable.,ask_timetable
+My classroom's projector is broken.,report_issue
+Tell me more about the college fest.,ask_about_events
+Tata,goodbye
+My classroom's projector is broken.,report_issue
+I need the class schedule for the 7th semester.,ask_timetable
+Any workshops happening this month?,ask_about_events
+What are the library hours?,inquire_library_hours
+Hello,greet
+I want to report an issue.,report_issue
+Show me the dates for the final exams.,ask_exam_schedule
+Thank you so much,thank_you
+Shukriya,thank_you
+When is the sports meet?,ask_about_events
+hackathon kab hai?,ask_about_events
+Timetable for M.Tech please.,ask_timetable
+I need the exam timetable for the 8th semester.,ask_exam_schedule
+Tell me more about the college fest.,ask_about_events
+Is the library open on Saturday?,inquire_library_hours
+Where can I find the scholarship form?,find_scholarship_form
+final year ka time table hai?,ask_timetable
+Where can I find the scholarship form?,find_scholarship_form
+Wassup,greet
+Shukriya,thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+The Wi-Fi is not working.,report_issue
+Tell me the final date for paying my B.Tech fees.,ask_fee_deadline
+Shukriya,thank_you
+Goodbye,goodbye
+I need the exam timetable for the 2nd semester.,ask_exam_schedule
+I need the exam timetable for the 1st semester.,ask_exam_schedule
+Thank you so much,thank_you
+Tell me more about the college fest.,ask_about_events
+Goodbye,goodbye
+"That was helpful, thanks",thank_you
+I need the application for the government scholarship.,find_scholarship_form
+Any workshops happening this month?,ask_about_events
+There is a problem with the hostel water in the hostel.,report_issue
+"That was helpful, thanks",thank_you
+Scholarship form kidhar milega?,find_scholarship_form
+Is there any upcoming event?,ask_about_events
+Hello,greet
+Hello,greet
+There is a problem with the library computer in the hostel.,report_issue
+Whom to contact for a hostel water issue?,report_issue
+Good morning,greet
+When are the exams starting?,ask_exam_schedule
+Where can I find the timetable?,ask_timetable
+Library kab tak khuli rehti hai?,inquire_library_hours
+Hello,greet
+What are the library hours?,inquire_library_hours
+Library kab tak khuli rehti hai?,inquire_library_hours
+Exam schedule kab aayega?,ask_exam_schedule
+There is a problem with the hostel water in the hostel.,report_issue
