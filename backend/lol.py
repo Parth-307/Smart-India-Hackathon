@@ -12,7 +12,7 @@ print(f"Tensor on device: {x.device}")
 # 3. Perform an operation on the GPU
 y = x * 2
 print(f"Result on device: {y.device}")
-
+sad = "s"
 
 import transformers
 print(transformers.__version__)
