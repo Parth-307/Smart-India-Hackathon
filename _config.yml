@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: './frontend'
+source: ./frontend
 incremental: false
 highlighter: rouge
 gist:
