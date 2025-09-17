@@ -23,4 +23,10 @@
     overflow: scroll;
     display: flex;
     flex-direction: column-reverse;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.middle-section-inner::-webkit-scrollbar{
+    display: none;
 }

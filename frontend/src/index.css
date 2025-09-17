@@ -12,8 +12,8 @@
 body{
   width: 100vw;
   height: 100vh;
-  background-color: #4B4E53;
-  background-image: linear-gradient(147deg, #222b3a 0%, #000000 74%);
+  background-color: #1a1c27;
+  /* background-image: linear-gradient(147deg, #222b3a 0%, #000000 74%); */
 }
 
 input, textarea, button{
@@ -80,6 +80,11 @@ input, textarea, button{
   line-height: 1.5rem;
   padding: 1rem 5%;
   transition: 0.3s ease-out;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.search-bar-input::-webkit-scrollbar{
+  display: none;
 }
 .action-btn-container *{
   display: flex;

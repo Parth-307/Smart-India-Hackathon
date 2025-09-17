@@ -10,10 +10,11 @@
     border: 1px solid #232323;
     color: white;
     display: block;
-    padding: 2px;
+    padding: 1px;
     margin: 0.5rem;
     border-radius: 1rem;
-    background: rgba(100, 100, 100, 0.1);
+    max-width: 90%;
+    /* background: rgba(100, 100, 100, 0.1); */
 }
 .message-box-user .message-box-inner{
     background: rgba(100, 100, 100, 0.2);
@@ -24,6 +25,5 @@
     padding: 0.5rem 1rem;
     border-radius: inherit;
     box-shadow: inset 0 0 25px #0f0f0f;
-    max-width: 80vw;
     overflow-wrap: break-word;
 }
