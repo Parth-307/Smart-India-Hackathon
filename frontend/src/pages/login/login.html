@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login - College Chatbot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-wrapper login-wrapper">
+            <div class="form-header">
+                <h1>Admin Login</h1>
+                <p>Welcome back! Please sign in to your account</p>
+            </div>
+
+            <form id="loginForm" class="auth-form">
+                <!-- Work Email Field -->
+                <div class="input-group">
+                    <label for="loginEmail">Work Email</label>
+                    <div class="input-container">
+                        <input type="email" id="loginEmail" name="loginEmail" required>
+                        <span class="validation-icon"></span>
+                    </div>
+                    <span class="error-message" id="loginEmailError"></span>
+                </div>
+
+                <!-- Password Field -->
+                <div class="input-group">
+                    <label for="loginPassword">Password</label>
+                    <div class="input-container">
+                        <input type="password" id="loginPassword" name="loginPassword" required>
+                        <button type="button" class="password-toggle" id="loginPasswordToggle">
+                            <span class="eye-icon">👁️</span>
+                        </button>
+                        <span class="validation-icon"></span>
+                    </div>
+                    <span class="error-message" id="loginPasswordError"></span>
+                </div>
+
+                <!-- Remember Me & Forgot Password -->
+                <div class="form-options">
+                    <label class="checkbox-container">
+                        <input type="checkbox" id="rememberMe">
+                        <span class="checkmark"></span>
+                        Remember me
+                    </label>
+                    <a href="#" class="forgot-password">Forgot Password?</a>
+                </div>
+
+                <!-- Login Button -->
+                <button type="submit" id="loginBtn" class="primary-btn" disabled>
+                    <span class="btn-text">Login</span>
+                    <span class="loading-spinner" id="loginSpinner"></span>
+                </button>
+
+                <!-- Error Message Display -->
+                <div class="login-error" id="loginError"></div>
+            </form>
+
+            <div class="form-footer">
+                <p>Don't have an account? <a href="signup.html">Sign up here</a></p>
+            </div>
+
+            <!-- Success Message -->
+            <div class="success-message" id="loginSuccessMessage">
+                <div class="success-content">
+                    <div class="success-icon">✓</div>
+                    <h3>Login Successful!</h3>
+                    <p>Redirecting to dashboard...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

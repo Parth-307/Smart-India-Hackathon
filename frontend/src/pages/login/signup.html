@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Signup - College Chatbot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-wrapper">
+            <div class="form-header">
+                <h1>Admin Signup</h1>
+                <p>Create your admin account for the college chatbot system</p>
+            </div>
+
+            <form id="signupForm" class="auth-form">
+                <!-- Full Name Field -->
+                <div class="input-group">
+                    <label for="fullName">Full Name</label>
+                    <div class="input-container">
+                        <input type="text" id="fullName" name="fullName" required>
+                        <span class="validation-icon"></span>
+                    </div>
+                    <span class="error-message" id="fullNameError"></span>
+                </div>
+
+                <!-- Work Email Field -->
+                <div class="input-group">
+                    <label for="workEmail">Work Email</label>
+                    <div class="input-container">
+                        <input type="email" id="workEmail" name="workEmail" required>
+                        <span class="validation-icon"></span>
+                    </div>
+                    <span class="error-message" id="workEmailError"></span>
+                </div>
+
+                <!-- Password Field -->
+                <div class="input-group">
+                    <label for="password">Create Password</label>
+                    <div class="input-container">
+                        <input type="password" id="password" name="password" required>
+                        <button type="button" class="password-toggle" id="passwordToggle">
+                            <span class="eye-icon">👁️</span>
+                        </button>
+                        <span class="validation-icon"></span>
+                    </div>
+                    <span class="error-message" id="passwordError"></span>
+                    <div class="password-strength">
+                        <div class="strength-bar">
+                            <div class="strength-fill" id="strengthFill"></div>
+                        </div>
+                        <span class="strength-text" id="strengthText">Password strength</span>
+                    </div>
+                </div>
+
+                <!-- College Website URL Field -->
+                <div class="input-group">
+                    <label for="collegeUrl">College Website URL</label>
+                    <div class="input-container">
+                        <input type="url" id="collegeUrl" name="collegeUrl" placeholder="https://example.edu" required>
+                        <span class="validation-icon"></span>
+                    </div>
+                    <span class="error-message" id="collegeUrlError"></span>
+                </div>
+
+                <!-- Phone Number Field -->
+                <div class="input-group">
+                    <label for="phoneNumber">Phone Number</label>
+                    <div class="input-container">
+                        <input type="tel" id="phoneNumber" name="phoneNumber" placeholder="1234567890" maxlength="10" required>
+                        <span class="validation-icon"></span>
+                    </div>
+                    <span class="error-message" id="phoneNumberError"></span>
+                </div>
+
+                <!-- Get OTP Button -->
+                <button type="button" id="getOtpBtn" class="primary-btn" disabled>
+                    <span class="btn-text">Get OTP</span>
+                    <span class="loading-spinner" id="otpSpinner"></span>
+                </button>
+
+                <!-- OTP Section (Initially Hidden) -->
+                <div class="otp-section" id="otpSection">
+                    <div class="input-group">
+                        <label for="otpInput">Enter OTP</label>
+                        <div class="input-container">
+                            <input type="text" id="otpInput" name="otpInput" maxlength="6" placeholder="123456">
+                            <span class="validation-icon"></span>
+                        </div>
+                        <span class="error-message" id="otpError"></span>
+                    </div>
+
+                    <button type="submit" id="verifySignupBtn" class="primary-btn">
+                        <span class="btn-text">Verify & Sign Up</span>
+                        <span class="loading-spinner" id="verifySpinner"></span>
+                    </button>
+                </div>
+            </form>
+
+            <div class="form-footer">
+                <p>Already have an account? <a href="login.html">Login here</a></p>
+            </div>
+
+            <!-- OTP Display Modal -->
+            <div class="otp-modal" id="otpModal">
+                <div class="modal-content">
+                    <h3>OTP Generated</h3>
+                    <p>A verification code has been sent. For this demo, your code is:</p>
+                    <div class="otp-display" id="otpDisplay"></div>
+                    <button type="button" class="modal-close" id="closeModal">Got it!</button>
+                </div>
+            </div>
+
+            <!-- Success Message -->
+            <div class="success-message" id="successMessage">
+                <div class="success-content">
+                    <div class="success-icon">✓</div>
+                    <h3>Account Created Successfully!</h3>
+                    <p>Redirecting to login page...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
