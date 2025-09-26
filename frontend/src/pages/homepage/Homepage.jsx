@@ -32,14 +32,14 @@ const Navigation = ({ sidebarOpen, setSidebarOpen }) => {
                     >
                         <MenuIcon />
                     </button>
-                    <h1 className="logo">LinguaBot</h1>
+                    <h1 className="logo">EchoBot</h1>
                 </div>
                 <div className="nav-links">
                     <a href="#home" className="nav-link">Home</a>
                     <a href="#features" className="nav-link">Features</a>
                     <a href="#documentation" className="nav-link">Documentation</a>
                     <a href="#tutorials" className="nav-link">Tutorials</a>
-                    <a href="#about" className="nav-link">About</a>
+                    <a href="#about" className="nav-link">About Us</a>
                 </div>
                 <button className="mobile-menu-btn">
                     <MenuIcon />
@@ -80,7 +80,7 @@ const Chatbot = ({ isOpen, onClose }) => {
     const [messages, setMessages] = useState([
         {
             id: 1,
-            text: "👋 Hello! I'm LinguaBot. I can communicate in any language. Try asking me something in English, Spanish, French, Hindi, or any other language!",
+            text: "👋 Hello! I'm EchoBot. I can communicate in any language. Try asking me something in English, Spanish, French, Hindi, or any other language!",
             isUser: false
         }
     ]);
@@ -130,7 +130,7 @@ const Chatbot = ({ isOpen, onClose }) => {
         <div className="chatbot-overlay" onClick={onClose}>
             <div className="chatbot-container" onClick={(e) => e.stopPropagation()}>
                 <div className="chatbot-header">
-                    <h3 className="chatbot-title">LinguaBot Chat</h3>
+                    <h3 className="chatbot-title">Echobot Chat</h3>
                     <button className="close-btn" onClick={onClose}>
                         <CloseIcon />
                     </button>
@@ -171,7 +171,7 @@ const HeroSection = ({ onTryNow, onViewDocs }) => {
             <div className="container">
                 <div className="hero-content">
                     <p className="hero-subtitle">
-                        Breaking language barriers with intelligent AI that understands and responds in any language seamlessly
+                        Breaking language barriers with intelligent AI that understands and responds in any language seamlessly.
                     </p>
                     <h1 className="hero-title">
                         The Future of
@@ -179,11 +179,11 @@ const HeroSection = ({ onTryNow, onViewDocs }) => {
                         <span className="hero-highlight">Multilingual AI</span>
                     </h1>
                     <p className="hero-description">
-                        Experience the power of language-agnostic conversation. Our AI chatbot understands context, culture, and nuance across 100+ languages.
+                        Experience the power of language-agnostic conversation. Our AI chatbot understands context, culture, and nuance of languages.
                     </p>
                     <div className="hero-buttons">
                         <button className="btn btn-primary" onClick={onTryNow}>
-                            Try Now - It's Free
+                            Try Now
                         </button>
                         <button className="btn btn-secondary" onClick={onViewDocs}>
                             View Documentation
@@ -201,14 +201,14 @@ const FeaturesSection = () => {
         {
             icon: "🌍",
             iconClass: "blue",
-            title: "100+ Languages",
-            description: "Seamlessly communicate in over 100 languages with perfect context understanding and cultural awareness."
+            title: "Various Languages",
+            description: "Seamlessly communicate in over various languages with perfect context understanding and cultural awareness."
         },
         {
             icon: "⚡",
             iconClass: "green",
             title: "Lightning Fast",
-            description: "Get instant responses with our optimized AI engine that processes multilingual queries in milliseconds."
+            description: "Get instant responses with our optimized AI engine that processes multilingual queries in seconds."
         },
         {
             icon: "🔒",
@@ -244,7 +244,7 @@ const DocumentationSection = () => {
     const docs = [
         {
             title: "Quick Start Guide",
-            description: "Get up and running with LinguaBot in under 5 minutes.",
+            description: "Get up and running with Echobot in under 5 minutes.",
             link: "Read Guide →"
         },
         {
@@ -263,7 +263,7 @@ const DocumentationSection = () => {
         <section id="documentation" className="section section-stone">
             <div className="container">
                 <h2 className="section-title">Documentation</h2>
-                <p className="section-subtitle">Everything you need to integrate and use LinguaBot</p>
+                <p className="section-subtitle">Everything you need to integrate and use Echobot</p>
                 <div className="docs-grid">
                     {docs.map((doc, index) => (
                         <div key={index} className="doc-card">
@@ -284,14 +284,14 @@ const TutorialsSection = () => {
         <section id="tutorials" className="section section-beige">
             <div className="container">
                 <h2 className="section-title">Video Tutorials</h2>
-                <p className="section-subtitle">Learn how to make the most of LinguaBot</p>
+                <p className="section-subtitle">Learn how to make the most of Echobot</p>
                 <div className="tutorial-container">
                     <div className="tutorial-video">
                         <div>
                             <div className="play-icon">
                                 <PlayIcon />
                             </div>
-                            <p style={{ color: '#4b5563', margin: '8px 0' }}>Getting Started with LinguaBot</p>
+                            <p style={{ color: '#4b5563', margin: '8px 0' }}>Getting Started with Echobot</p>
                             <p style={{ color: '#6b7280', fontSize: '14px' }}>Duration: 5:30</p>
                         </div>
                     </div>
@@ -311,13 +311,13 @@ const AboutSection = () => {
             <div className="container">
                 <h2 className="section-title">About Our Project</h2>
                 <p className="section-subtitle" style={{ maxWidth: '768px', margin: '0 auto 64px' }}>
-                    Developed for Smart India Hackathon, LinguaBot represents the future of multilingual AI communication.
+                    Echobot represents the future of multilingual AI communication.
                     Our team has created an innovative solution that breaks down language barriers and enables seamless
                     global communication through advanced natural language processing.
                 </p>
                 <div className="about-content">
                     <div className="about-grid">
-                        <div className="about-text">
+                        {/* <div className="about-text">
                             <h3>Smart India Hackathon 2024</h3>
                             <p>
                                 Our language-agnostic chatbot solution addresses the critical need for seamless multilingual
@@ -330,12 +330,12 @@ const AboutSection = () => {
                                 <span className="tag purple">Multilingual</span>
                                 <span className="tag orange">Innovation</span>
                             </div>
-                        </div>
-                        <div className="about-highlight">
+                        </div> */}
+                        {/* <div className="about-highlight">
                             <div className="trophy">🏆</div>
                             <h4 style={{ fontSize: '18px', fontWeight: '600', color: '#111827', margin: '8px 0' }}>SIH 2024 Project</h4>
                             <p style={{ color: '#4b5563', margin: 0 }}>Revolutionizing global communication through AI</p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
@@ -350,7 +350,7 @@ const Footer = () => {
             <div className="container">
                 <div className="footer-grid">
                     <div className="footer-section">
-                        <h3>LinguaBot</h3>
+                        <h3>Echobot</h3>
                         <p>Breaking language barriers with intelligent AI that understands and responds in any language seamlessly.</p>
                     </div>
                     <div className="footer-section">
@@ -379,7 +379,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer-bottom">
-                    <p>&copy; 2024 LinguaBot. Built for Smart India Hackathon. All rights reserved.</p>
+                    <p>&copy; 2024 Echobot. Built for Smart India Hackathon. All rights reserved.</p>
                 </div>
             </div>
         </footer>
