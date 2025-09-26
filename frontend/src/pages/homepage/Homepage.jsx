@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import './homepage.css'
+import { Link } from 'react-router-dom';
 
 // Icon Components
 const MenuIcon = () => (
@@ -182,9 +183,10 @@ const HeroSection = ({ onTryNow, onViewDocs }) => {
                         Experience the power of language-agnostic conversation. Our AI chatbot understands context, culture, and nuance across 100+ languages.
                     </p>
                     <div className="hero-buttons">
-                        <button className="btn btn-primary" onClick={onTryNow}>
-                            Try Now - It's Free
+                        <button className="btn btn-primary">
+                            <Link to='/chatbot3'>Try Now - It's Free</Link>
                         </button>
+                        <button className='btn btn-primary'><a href='/pages/login/signup.html'>Get Started</a></button>
                         <button className="btn btn-secondary" onClick={onViewDocs}>
                             View Documentation
                         </button>

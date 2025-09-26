@@ -38,7 +38,7 @@ body {
 }
 
 /* Container and Wrapper */
-.container {
+.container-login, .container-signup {
     width: 100%;
     max-width: 480px;
 }
