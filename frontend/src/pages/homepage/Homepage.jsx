@@ -357,7 +357,7 @@ const Footer = () => {
                         <h4>Product</h4>
                         <ul className="footer-links">
                             <li><a href="#">Features</a></li>
-                            <li><a href="#">Pricing</a></li>
+
                             <li><a href="#">API</a></li>
                         </ul>
                     </div>
@@ -379,7 +379,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer-bottom">
-                    <p>&copy; 2024 Echobot. Built for Smart India Hackathon. All rights reserved.</p>
+                    <p>&copy; 2025 Echobot. All rights reserved.</p>
                 </div>
             </div>
         </footer>
