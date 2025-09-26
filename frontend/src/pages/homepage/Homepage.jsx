@@ -315,9 +315,9 @@ const AboutSection = () => {
                     Our team has created an innovative solution that breaks down language barriers and enables seamless
                     global communication through advanced natural language processing.
                 </p>
-                <div className="about-content">
+                {/* <div className="about-content">
                     <div className="about-grid">
-                        {/* <div className="about-text">
+                        <div className="about-text">
                             <h3>Smart India Hackathon 2024</h3>
                             <p>
                                 Our language-agnostic chatbot solution addresses the critical need for seamless multilingual
@@ -330,14 +330,14 @@ const AboutSection = () => {
                                 <span className="tag purple">Multilingual</span>
                                 <span className="tag orange">Innovation</span>
                             </div>
-                        </div> */}
-                        {/* <div className="about-highlight">
+                        </div> 
+                         <div className="about-highlight">
                             <div className="trophy">🏆</div>
                             <h4 style={{ fontSize: '18px', fontWeight: '600', color: '#111827', margin: '8px 0' }}>SIH 2024 Project</h4>
                             <p style={{ color: '#4b5563', margin: 0 }}>Revolutionizing global communication through AI</p>
-                        </div> */}
+                        </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </section>
     );
