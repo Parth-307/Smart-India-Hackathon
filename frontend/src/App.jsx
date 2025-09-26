@@ -1,17 +1,19 @@
 import './App.css'
-import { Link } from 'react-router-dom'
-import Chatbot from './pages/Chatbot/Chatbot'
+import { Routes, Route } from 'react-router-dom'
+import Chatbot from './pages/Chatbot/Chatbot.jsx'
+import ChatBot3 from './pages/ChatbotNew/Chatbot3.jsx'
+import Homepage from './pages/homepage/Homepage'
 
 function App() {
   
   return (
     <>
-      <p>Hello, this is our project</p>
-      <ul>
-        <li><Link to='/chatbot'>chatbot</Link></li>
-        <li><Link to='/chatbot3'>Chatbot New</Link></li>
-      </ul>
-      <p>Hello, this is our project</p>
+      <Routes>
+        <Route path='/' element={ <Homepage /> } />
+        <Route path='/chatbot' element={ <Chatbot /> } />
+        <Route path='/chatbot3' element={ <ChatBot3 /> } />
+        
+      </Routes>
     </>
   )
 }
